@@ -1,0 +1,29 @@
+commit 994bcb5924c3ace6c9a13755b2858f7d3f6b33a9
+Author: Linda <linda.vikstrom@slu.se>
+Date:   Tue Oct 9 14:29:29 2018 +0200
+
+    some modifications
+
+commit 8196196307eacd26eb6ae07760965712a6d19d25
+Author: Linda <linda.vikstrom@slu.se>
+Date:   Tue Oct 9 14:19:23 2018 +0200
+
+    honest answer
+
+commit 2b27851fcbe535386d67a9654544d9ecc66679ab
+Author: Linda <linda.vikstrom@slu.se>
+Date:   Tue Oct 9 14:11:56 2018 +0200
+
+    question about the moon
+
+commit 81a30dc2cd8887767292b62888cdc97a9b89fa8c
+Author: Linda <linda.vikstrom@slu.se>
+Date:   Tue Oct 9 14:10:14 2018 +0200
+
+    added status about base
+
+commit 93360aa3dfe517eb803b444219b97fe436464e58
+Author: Linda <linda.vikstrom@slu.se>
+Date:   Tue Oct 9 13:54:01 2018 +0200
+
+    created file mars.txt
